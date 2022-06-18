@@ -5,7 +5,7 @@ USER='crypticv_top10vpn';
 PASS='@@@@F1r3n3t';
 DBNAME='crypticv_top10vpn';
 PORT_TCP='109';
-PORT_UDP='53';
+PORT_UDP='7200';
 
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 
